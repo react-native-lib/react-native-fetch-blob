@@ -1,6 +1,6 @@
 {
   "name": "react-native-vk-fetch-blob",
-  "version": "0.10.7",
+  "version": "0.10.8",
   "description": "A module provides upload, download, and files access API. Supports file stream read/write for process large files.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   ],
   "rnpm": {
     "commands": {
-      "prelink": "node ./node_modules/react-native-fetch-blob/scripts/prelink.js"
+      "prelink": "node ./node_modules/react-native-vk-fetch-blob/scripts/prelink.js"
     }
   },
   "repository": {
